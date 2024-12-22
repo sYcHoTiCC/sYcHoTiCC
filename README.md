@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @sYcHoTiCC
-- 👀 I’m interested in making games and art
-- 🌱 I’m currently learning Game development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🎮 Hi, I’m Shoumo – a passionate game designer ready to bring your dream worlds to life!
+✨ Graduate in Game Development with experience in LiveOps for mobile games.
+🕹️ Skilled in designing mechanics, live game operations, and crafting immersive player experiences.
+🤝 Always open to collaborating on groundbreaking projects and bringing creative visions to life.
+🌟 Let’s create the next big thing in gaming!
+
+📫 Reach me at soumyab.mid@gmail.com or connect with me here!
 
 <!---
 sYcHoTiCC/sYcHoTiCC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
